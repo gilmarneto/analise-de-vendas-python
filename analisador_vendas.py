@@ -14,7 +14,7 @@ os.system('cls')
 # Produto -> OK
 
 # Caminho do arquivo
-caminho = "PROJETAO_01/arquivos/"
+caminho = "arquivos/"
 arquivo = "dados.txt"
 
 # Função(Calcular o faturamento por produto (preço × quantidade vendida))
